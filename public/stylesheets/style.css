@@ -1,0 +1,26 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+   color: #00B7FF ;
+}
+a.hover {
+   text-decoration: none;
+}
+.graything {
+   color: grey;
+   font-weight: bold;
+}
+.navvy {
+   padding: 25px;
+   vertical-align: middle;
+   color: grey;
+   font-weight: bold;
+}
+
+#pagecontent {
+	height: 390px;
+	text-align: top;
+}
